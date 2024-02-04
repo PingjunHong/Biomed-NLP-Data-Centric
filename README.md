@@ -23,6 +23,10 @@ DeBERTa-Base: [MoritzLaurer/DeBERTa-v3-base-mnli-fever-anli](https://huggingface
 
 Flan-T5-Base: [google/flan-t5-base](https://huggingface.co/google/flan-t5-base)
 
+**DeBERTa Pipeline:** `DeBERTa.ipynb`
+
+**Flan Pipeline:** `flan_t5_base.ipynb`
+
 ### Evidence Retrieval Process
 **Evidence Retrieval Documentations**
 
