@@ -1,0 +1,14 @@
+{
+   "25": "Placebo treatment is used in cohort 1 of the primary trial, but there is only a test group in the secondary trial.",
+   "33": "no placebo treatment is used in cohort 2 of the primary trial.",
+   "53": "The intervention section for the primary trial only details the dosage and type but not the duration of the intervention.",
+   "59": "the primary trial is testing a [treatment].",
+   "61": "in the primary trial the interventions are explained in the intervention section.",
+   "72": "the primary trial is testing a [treatment].",
+   "81": "The intervention section for the primary trial only details the dosage and type but not the duration of the intervention.",
+   "86": "the secondary trial investigates a [treatment]. but not the primary trial.",
+   "88": "the primary trial is testing a [treatment].",
+   "98": "in the primary trial the interventions are explained in the intervention section.",
+   "107": "the primary trial is testing a [treatment].",
+   "133": "the primary trial is testing a [treatment]."
+}
