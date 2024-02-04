@@ -6,11 +6,11 @@ This repository contains the code for the Data Centric Approach to SemEval-2024 
 This project is conducted by Anna Barwig, Pingjun Hong, and Shijia Zhou under the structure of the seminar Biomodical Natural Language Processing at LMU.
 
 ### Requirements
-- Python
-- PyTorch
-- NumPy
+- Python >= 3.10
+- PyTorch >= 2.1
+- NumPy >= 1.23
+- datasets >= 2.16
 - scikit-learn
-- datasets
 - transformers
 - pandas
 - wandb
