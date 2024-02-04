@@ -26,20 +26,24 @@ Flan-T5-Base: [google/flan-t5-base](https://huggingface.co/google/flan-t5-base)
 ### Evidence Retrieval Process
 **Evidence Retrieval Documentations**
 
-The evidence retrieval documentations are saved under the `evidence retrieval` repository:
-- Evidence Retrieval for DeBERTa: `evidence_retrieval_DeBERTa`
-- Evidence Retrieval for Flan: `evidence_retrieval_Flan`
+The evidence retrieval documentation are saved under the `evidence retrieval` repository:
+- Evidence Retrieval for DeBERTa: `evidence_retrieval_DeBERTa.xlsx`
+- Evidence Retrieval for Flan: `evidence_retrieval_Flan.xlsx`
 
 **Annotators**
 
 - DeBERTa instances: Anna Barwig, Pingjun Hong
 - Flan instances: Pingjun Hong, Shijia Zhou
 
+### Data Statements Generation
+- Code for data selection: `data_selection_for_generation_round.ipynb`
+- Statements generation: `data_statement_generation.xlsx`
+
 ### Results
 
 The final predictions on test set are saved under the `predictions` repository:
 - Predictions on test set of Flan: `predictions_Flan`
-- Predictions on test set of DeBERTa (without classification boudary modification): `predictions_DeBERTa`
+- Predictions on test set of DeBERTa (without classification boundary modification): `predictions_DeBERTa`
 - Predictions on test set of DeBERTa (classification boundary modification 3:7): `predictions_DeBERTa_37`
 - Predictions on test set of DeBERTa (classification boundary modification 4:6): `predictions_DeBERTa_46`
 
